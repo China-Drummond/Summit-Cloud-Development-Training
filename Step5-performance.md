@@ -52,5 +52,3 @@ Jconsole localhost:5000
 
 ![Visual](picture/VisualVM.png)
 
-## Helpful link
-https://github.wdf.sap.corp/Hands-On/Demo/blob/master/How-to-performance.md

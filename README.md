@@ -5,9 +5,9 @@
 * When update company information ,meanwhile sync it to the redis to cache.
 * Get company information,firstly get it in the redis , if there is no data to return ,then get it from the hana and sync it to the redis to cache
 * Delete company information,meanwhile delete it in the redis
-* 
+
 ## API List
-https://ems-srv-demo.cfapps.sap.hana.ondemand.com/swagger-ui.html#/
+https://summit-srv-demo.xxx.xxx.xxxx.com/swagger-ui.html#/
 ![API](picture/Api-list.png)
 
 ## Table Contents
